@@ -13,6 +13,8 @@
 
 [Get Started](https://github.com/hkashyap-developer/next-docs)
 
-<!-- background color -->
 
-![color](#f0f0f0)
+<!-- background image -->
+
+![](_media/raw_bg_black.png)
+
