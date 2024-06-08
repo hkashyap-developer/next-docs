@@ -45,7 +45,11 @@
 
   <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
 
-
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+  </script>
 
 </body>
 </html>
