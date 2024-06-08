@@ -4,14 +4,14 @@
 
 # KnowledgeBase <small>0.1</small>
 
-> A magical documentation site generator.
+> A magical way to manage Knowledge!
 
 - Simple and lightweight
 - No statically built html files
 - Multiple themes
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+
+[Get Started](https://github.com/hkashyap-developer/next-docs)
 
 <!-- background color -->
 
