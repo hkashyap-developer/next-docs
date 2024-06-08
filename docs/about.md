@@ -1,3 +1,3 @@
-# Headline Test
+# Headline
 
 > An awesome project.
