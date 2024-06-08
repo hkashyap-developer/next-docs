@@ -1,5 +1,5 @@
 # Introducing KnowledgeBase
 
-> An awesome project.
+> "Knowledge is power." - Francis Bacon
 
 ![alt text](/_media/hero_banner.png)
