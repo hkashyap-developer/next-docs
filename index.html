@@ -11,7 +11,11 @@
 
   <script src="node_modules/zooming/build/zooming.min.js"></script>
 
-
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+  </script>
 
 
 </head>
@@ -45,11 +49,7 @@
 
   <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
 
-  <script>
-    if (typeof navigator.serviceWorker !== 'undefined') {
-      navigator.serviceWorker.register('sw.js')
-    }
-  </script>
+
 
 </body>
 </html>
